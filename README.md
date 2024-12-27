@@ -6,7 +6,7 @@ Since the earlier days, astronomers believed that the observable universe repres
 ## Role of Distance Ladders
 The value of Hubble Constant has been a topic of debate for many decades. In order to measure this value, the precise distance to the objects whose recession velocities we are measuring should also be known. The various methods used to measure this distance are called 'Distance Ladders'. The problem however is that different distance ladders give different H~0~ values. There are a variety of Distance ladders used such as Supernovae (both Type I and II), Gravitational lenses, Tully Fisher, Cepheids, Masers, Cosmic Microwave Background and many more. Each of them differ by a certain range in the H~0~ values they predict. Therefore unique distance ladders are being searched which can restrict the expansion rate of our universe with a small error margin.
 
-![Distance Ladder based discrepancy in H~0~](https://lambda.gsfc.nasa.gov/education/graphic_history/images/h0_1d_history_v9_480.png)
+![Hubble constant value by different distance ladders](https://github.com/user-attachments/assets/34e3cb09-f3e0-4106-aab2-32c6d19f83f1)
 
 ## Baryonic Tully Fisher relation
 Tully Fisher relation relates luminosity of a galaxy with its rotational velocity. The relation indicates that galaxies with higher rotational velocities tend to have higher luminosities. This is because galaxies with higher rotational velocities typically have more mass and therefore emit more light. Therefore the modification in TFR that directly relates the baryonic mass (mass of stars + gas, excluding the dark matter) with the rotational velocity is called BTFR. BTFR gives insights into the actual mass distribution of in the galaxy, and can help towards search for Dark matter.
